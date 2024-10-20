@@ -1,0 +1,45 @@
+Detailed Menu For Coder's Corner
+
+Appetizer
+
+1. fries $4
+2. soup $3
+3. salad $4
+
+Meal
+
+4. pizza $7
+  - crust
+    - thin, stuffed, reg
+  - meat*
+    - pepperoni, sausage, chicken
+  - vegtable
+    - broccoli, pepper, mushroom, tomato
+  - cheese
+    - cheddar, mozzerella, swiss
+  -sauce
+    -tomato, alfredo, pesto, BBQ
+
+5. sandwhich $5
+  -bread
+    -white, whole wheat, rye
+  - sauce
+    - mayo, mustard, ranch
+  - cheese
+    - cheddar, mozerella, blue
+  - meat*
+    - turkey, ham, bacon
+  - vegtable
+    - lettuce, pickle, tomato
+  
+6. pasta $10
+  -types 
+   -macoroni, spagehtti, fettuccine
+  -sauce
+   -tomato, alfredo, spicy, 
+  -meat*
+   -chicken, beef, shrimp
+
+                    *CONSUMER ADVISORY* 
+*Eating raw or undercooked food is associated with increased risk of foodborne illness. 
+The Coder's Corner© is not liable for any harm due to allergic reactions and the consumer is solely responsible for ensuring their own safety.*

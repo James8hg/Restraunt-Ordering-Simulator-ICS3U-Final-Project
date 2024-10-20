@@ -1,0 +1,6 @@
+Coder's Corner Receipt
+
+1 fries $4
+Subtotal 4.0$
+Tax 13% 0.52$
+Total 4.52$
